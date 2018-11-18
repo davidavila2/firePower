@@ -1,0 +1,31 @@
+html{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 100;
+}
+body {
+  max-width: 1500px;
+  margin: auto;
+  display: flex;
+}
+header {
+  width: 100%;
+  height: 255px;
+  background-image: url("http://dev.firepoweronline.com/wp-content/uploads/2014/04/cropped-FP-masthead1.jpg");
+  
+}
+aside {
+  float: right;
+}
+
+.fullC {
+  float: right;
+  padding-top: 100px;
+  width: 180px;
+}
+
+.thumbnail img {
+width: 225px;
+}
+
+
